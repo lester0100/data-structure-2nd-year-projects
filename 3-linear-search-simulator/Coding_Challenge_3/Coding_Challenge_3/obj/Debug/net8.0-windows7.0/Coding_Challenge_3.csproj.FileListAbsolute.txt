@@ -1,0 +1,16 @@
+C:\Projects\C#\Data Structure and Algorithm\3_Linear Search Simulator\Coding_Challenge_3\Coding_Challenge_3\bin\Debug\net8.0-windows7.0\Coding_Challenge_3.exe
+C:\Projects\C#\Data Structure and Algorithm\3_Linear Search Simulator\Coding_Challenge_3\Coding_Challenge_3\bin\Debug\net8.0-windows7.0\Coding_Challenge_3.deps.json
+C:\Projects\C#\Data Structure and Algorithm\3_Linear Search Simulator\Coding_Challenge_3\Coding_Challenge_3\bin\Debug\net8.0-windows7.0\Coding_Challenge_3.runtimeconfig.json
+C:\Projects\C#\Data Structure and Algorithm\3_Linear Search Simulator\Coding_Challenge_3\Coding_Challenge_3\bin\Debug\net8.0-windows7.0\Coding_Challenge_3.dll
+C:\Projects\C#\Data Structure and Algorithm\3_Linear Search Simulator\Coding_Challenge_3\Coding_Challenge_3\bin\Debug\net8.0-windows7.0\Coding_Challenge_3.pdb
+C:\Projects\C#\Data Structure and Algorithm\3_Linear Search Simulator\Coding_Challenge_3\Coding_Challenge_3\obj\Debug\net8.0-windows7.0\Coding_Challenge_3.Form1.resources
+C:\Projects\C#\Data Structure and Algorithm\3_Linear Search Simulator\Coding_Challenge_3\Coding_Challenge_3\obj\Debug\net8.0-windows7.0\Coding_Challenge_3.csproj.GenerateResource.cache
+C:\Projects\C#\Data Structure and Algorithm\3_Linear Search Simulator\Coding_Challenge_3\Coding_Challenge_3\obj\Debug\net8.0-windows7.0\Coding_Challenge_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C#\Data Structure and Algorithm\3_Linear Search Simulator\Coding_Challenge_3\Coding_Challenge_3\obj\Debug\net8.0-windows7.0\Coding_Challenge_3.AssemblyInfoInputs.cache
+C:\Projects\C#\Data Structure and Algorithm\3_Linear Search Simulator\Coding_Challenge_3\Coding_Challenge_3\obj\Debug\net8.0-windows7.0\Coding_Challenge_3.AssemblyInfo.cs
+C:\Projects\C#\Data Structure and Algorithm\3_Linear Search Simulator\Coding_Challenge_3\Coding_Challenge_3\obj\Debug\net8.0-windows7.0\Coding_Challenge_3.csproj.CoreCompileInputs.cache
+C:\Projects\C#\Data Structure and Algorithm\3_Linear Search Simulator\Coding_Challenge_3\Coding_Challenge_3\obj\Debug\net8.0-windows7.0\Coding_Challenge_3.dll
+C:\Projects\C#\Data Structure and Algorithm\3_Linear Search Simulator\Coding_Challenge_3\Coding_Challenge_3\obj\Debug\net8.0-windows7.0\refint\Coding_Challenge_3.dll
+C:\Projects\C#\Data Structure and Algorithm\3_Linear Search Simulator\Coding_Challenge_3\Coding_Challenge_3\obj\Debug\net8.0-windows7.0\Coding_Challenge_3.pdb
+C:\Projects\C#\Data Structure and Algorithm\3_Linear Search Simulator\Coding_Challenge_3\Coding_Challenge_3\obj\Debug\net8.0-windows7.0\Coding_Challenge_3.genruntimeconfig.cache
+C:\Projects\C#\Data Structure and Algorithm\3_Linear Search Simulator\Coding_Challenge_3\Coding_Challenge_3\obj\Debug\net8.0-windows7.0\ref\Coding_Challenge_3.dll

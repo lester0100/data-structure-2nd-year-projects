@@ -1,0 +1,28 @@
+C:\Lester\Coding_Challenge_1(1)\Coding_Challenge_1(1)\bin\Debug\netcoreapp3.1\Coding_Challenge_1(1).exe
+C:\Lester\Coding_Challenge_1(1)\Coding_Challenge_1(1)\bin\Debug\netcoreapp3.1\Coding_Challenge_1(1).deps.json
+C:\Lester\Coding_Challenge_1(1)\Coding_Challenge_1(1)\bin\Debug\netcoreapp3.1\Coding_Challenge_1(1).runtimeconfig.json
+C:\Lester\Coding_Challenge_1(1)\Coding_Challenge_1(1)\bin\Debug\netcoreapp3.1\Coding_Challenge_1(1).runtimeconfig.dev.json
+C:\Lester\Coding_Challenge_1(1)\Coding_Challenge_1(1)\bin\Debug\netcoreapp3.1\Coding_Challenge_1(1).dll
+C:\Lester\Coding_Challenge_1(1)\Coding_Challenge_1(1)\bin\Debug\netcoreapp3.1\Coding_Challenge_1(1).pdb
+C:\Lester\Coding_Challenge_1(1)\Coding_Challenge_1(1)\obj\Debug\netcoreapp3.1\Coding_Challenge_1(1).csproj.AssemblyReference.cache
+C:\Lester\Coding_Challenge_1(1)\Coding_Challenge_1(1)\obj\Debug\netcoreapp3.1\Coding_Challenge_1(1).GeneratedMSBuildEditorConfig.editorconfig
+C:\Lester\Coding_Challenge_1(1)\Coding_Challenge_1(1)\obj\Debug\netcoreapp3.1\Coding_Challenge_1(1).AssemblyInfoInputs.cache
+C:\Lester\Coding_Challenge_1(1)\Coding_Challenge_1(1)\obj\Debug\netcoreapp3.1\Coding_Challenge_1(1).AssemblyInfo.cs
+C:\Lester\Coding_Challenge_1(1)\Coding_Challenge_1(1)\obj\Debug\netcoreapp3.1\Coding_Challenge_1(1).csproj.CoreCompileInputs.cache
+C:\Lester\Coding_Challenge_1(1)\Coding_Challenge_1(1)\obj\Debug\netcoreapp3.1\Coding_Challenge_1(1).dll
+C:\Lester\Coding_Challenge_1(1)\Coding_Challenge_1(1)\obj\Debug\netcoreapp3.1\Coding_Challenge_1(1).pdb
+C:\Lester\Coding_Challenge_1(1)\Coding_Challenge_1(1)\obj\Debug\netcoreapp3.1\Coding_Challenge_1(1).genruntimeconfig.cache
+C:\Projects\C#\Data Structure and Algorithm\1_Grades Management Program using Arrays\Coding_Challenge_1(1)\Coding_Challenge_1(1)\bin\Debug\netcoreapp3.1\Coding_Challenge_1(1).exe
+C:\Projects\C#\Data Structure and Algorithm\1_Grades Management Program using Arrays\Coding_Challenge_1(1)\Coding_Challenge_1(1)\bin\Debug\netcoreapp3.1\Coding_Challenge_1(1).deps.json
+C:\Projects\C#\Data Structure and Algorithm\1_Grades Management Program using Arrays\Coding_Challenge_1(1)\Coding_Challenge_1(1)\bin\Debug\netcoreapp3.1\Coding_Challenge_1(1).runtimeconfig.json
+C:\Projects\C#\Data Structure and Algorithm\1_Grades Management Program using Arrays\Coding_Challenge_1(1)\Coding_Challenge_1(1)\bin\Debug\netcoreapp3.1\Coding_Challenge_1(1).runtimeconfig.dev.json
+C:\Projects\C#\Data Structure and Algorithm\1_Grades Management Program using Arrays\Coding_Challenge_1(1)\Coding_Challenge_1(1)\bin\Debug\netcoreapp3.1\Coding_Challenge_1(1).dll
+C:\Projects\C#\Data Structure and Algorithm\1_Grades Management Program using Arrays\Coding_Challenge_1(1)\Coding_Challenge_1(1)\bin\Debug\netcoreapp3.1\Coding_Challenge_1(1).pdb
+C:\Projects\C#\Data Structure and Algorithm\1_Grades Management Program using Arrays\Coding_Challenge_1(1)\Coding_Challenge_1(1)\obj\Debug\netcoreapp3.1\Coding_Challenge_1(1).csproj.AssemblyReference.cache
+C:\Projects\C#\Data Structure and Algorithm\1_Grades Management Program using Arrays\Coding_Challenge_1(1)\Coding_Challenge_1(1)\obj\Debug\netcoreapp3.1\Coding_Challenge_1(1).GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C#\Data Structure and Algorithm\1_Grades Management Program using Arrays\Coding_Challenge_1(1)\Coding_Challenge_1(1)\obj\Debug\netcoreapp3.1\Coding_Challenge_1(1).AssemblyInfoInputs.cache
+C:\Projects\C#\Data Structure and Algorithm\1_Grades Management Program using Arrays\Coding_Challenge_1(1)\Coding_Challenge_1(1)\obj\Debug\netcoreapp3.1\Coding_Challenge_1(1).AssemblyInfo.cs
+C:\Projects\C#\Data Structure and Algorithm\1_Grades Management Program using Arrays\Coding_Challenge_1(1)\Coding_Challenge_1(1)\obj\Debug\netcoreapp3.1\Coding_Challenge_1(1).csproj.CoreCompileInputs.cache
+C:\Projects\C#\Data Structure and Algorithm\1_Grades Management Program using Arrays\Coding_Challenge_1(1)\Coding_Challenge_1(1)\obj\Debug\netcoreapp3.1\Coding_Challenge_1(1).dll
+C:\Projects\C#\Data Structure and Algorithm\1_Grades Management Program using Arrays\Coding_Challenge_1(1)\Coding_Challenge_1(1)\obj\Debug\netcoreapp3.1\Coding_Challenge_1(1).pdb
+C:\Projects\C#\Data Structure and Algorithm\1_Grades Management Program using Arrays\Coding_Challenge_1(1)\Coding_Challenge_1(1)\obj\Debug\netcoreapp3.1\Coding_Challenge_1(1).genruntimeconfig.cache

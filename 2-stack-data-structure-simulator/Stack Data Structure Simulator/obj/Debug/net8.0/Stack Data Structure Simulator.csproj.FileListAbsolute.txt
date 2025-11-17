@@ -1,0 +1,14 @@
+C:\Projects\C#\Data Structure and Algorithm\Stack Data Structure Simulator\Stack Data Structure Simulator\bin\Debug\net8.0\Stack Data Structure Simulator.exe
+C:\Projects\C#\Data Structure and Algorithm\Stack Data Structure Simulator\Stack Data Structure Simulator\bin\Debug\net8.0\Stack Data Structure Simulator.deps.json
+C:\Projects\C#\Data Structure and Algorithm\Stack Data Structure Simulator\Stack Data Structure Simulator\bin\Debug\net8.0\Stack Data Structure Simulator.runtimeconfig.json
+C:\Projects\C#\Data Structure and Algorithm\Stack Data Structure Simulator\Stack Data Structure Simulator\bin\Debug\net8.0\Stack Data Structure Simulator.dll
+C:\Projects\C#\Data Structure and Algorithm\Stack Data Structure Simulator\Stack Data Structure Simulator\bin\Debug\net8.0\Stack Data Structure Simulator.pdb
+C:\Projects\C#\Data Structure and Algorithm\Stack Data Structure Simulator\Stack Data Structure Simulator\obj\Debug\net8.0\Stack Data Structure Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C#\Data Structure and Algorithm\Stack Data Structure Simulator\Stack Data Structure Simulator\obj\Debug\net8.0\Stack Data Structure Simulator.AssemblyInfoInputs.cache
+C:\Projects\C#\Data Structure and Algorithm\Stack Data Structure Simulator\Stack Data Structure Simulator\obj\Debug\net8.0\Stack Data Structure Simulator.AssemblyInfo.cs
+C:\Projects\C#\Data Structure and Algorithm\Stack Data Structure Simulator\Stack Data Structure Simulator\obj\Debug\net8.0\Stack Data Structure Simulator.csproj.CoreCompileInputs.cache
+C:\Projects\C#\Data Structure and Algorithm\Stack Data Structure Simulator\Stack Data Structure Simulator\obj\Debug\net8.0\Stack Data Structure Simulator.dll
+C:\Projects\C#\Data Structure and Algorithm\Stack Data Structure Simulator\Stack Data Structure Simulator\obj\Debug\net8.0\refint\Stack Data Structure Simulator.dll
+C:\Projects\C#\Data Structure and Algorithm\Stack Data Structure Simulator\Stack Data Structure Simulator\obj\Debug\net8.0\Stack Data Structure Simulator.pdb
+C:\Projects\C#\Data Structure and Algorithm\Stack Data Structure Simulator\Stack Data Structure Simulator\obj\Debug\net8.0\Stack Data Structure Simulator.genruntimeconfig.cache
+C:\Projects\C#\Data Structure and Algorithm\Stack Data Structure Simulator\Stack Data Structure Simulator\obj\Debug\net8.0\ref\Stack Data Structure Simulator.dll
