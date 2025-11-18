@@ -12,9 +12,9 @@ Table of Contents
 This is a simple grade management console app that uses a 2D array to store student records. It shows how to use array indexing and basic CRUD (Create, Read, Update, Delete) operations.
 
 Key features
-- Add / Edit / Delete / View student records (rows in a 2D array)
-- You can navigate the menu using single-key commands (D, E, R, Y) to keep the app running
-- Input validation includes a valid operation check, and checking for unique IDs
+- Add / Edit / Delete / View student records (rows in a 2D array).
+- You can navigate the menu using single-key commands (D, E, R, Y) to keep the app running.
+- Input validation includes a valid operation check, and checking for unique IDs.
 
 
 
@@ -36,11 +36,7 @@ Key features
 
 A small Windows Forms app that generates an array of random grades, animates their display, and allows the user to search for a grade value. The UI visualizes matching elements and reports their indices.
 
-Key features (short, including validations)
-Project 3: Grade Search (Windows Forms)
-This small Windows Forms application creates an array of random grades, displays them with animation, and allows you to search for a specific grade. The UI highlights matches and shows their positions.
-
-Key features (short, including validations)
+Key features
 - Generates an int[8] array of random grades and shows them with a timer-based label animation.
 - Search by typing a value in the textbox and pressing Enter. If the input is empty, a required-field warning appears.
 - Checks input with int.TryParse only allows values from 0 to 100. Invalid entries show a friendly "Invalid grade!" message.
