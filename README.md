@@ -37,9 +37,13 @@ Key features
 A small Windows Forms app that generates an array of random grades, animates their display, and allows the user to search for a grade value. The UI visualizes matching elements and reports their indices.
 
 Key features (short, including validations)
-- Generates an int[8] of random grades and reveals them with a timer-driven label animation.
-- Search by typing a value into the textbox and pressing Enter; empty input shows a required-field warning.
-- Validates input with int.TryParse and enforces a value of 0–100; invalid entries display a friendly "Invalid grade!" dialog.
-- Stepwise visual feedback: per-element "True"/"False" labels colored green/red as a timer iterates through the array.
-- Displays index/indices for matches or reports "does not exist".
-- The retry button restarts the sequence by creating a new Form1 instance.
+Project 3: Grade Search (Windows Forms)
+This small Windows Forms application creates an array of random grades, displays them with animation, and allows you to search for a specific grade. The UI highlights matches and shows their positions.
+
+Key features (short, including validations)
+- Generates an int[8] array of random grades and shows them with a timer-based label animation.
+- Search by typing a value in the textbox and pressing Enter. If the input is empty, a required-field warning appears.
+- Checks input with int.TryParse only allows values from 0 to 100. Invalid entries show a friendly "Invalid grade!" message.
+- Gives step-by-step visual feedback: each element shows a "True" or "False" label in green or red as the timer goes through the array.
+- Shows the index or indices for matches, or says "does not exist" if there are none.
+- The retry button restarts the process.
