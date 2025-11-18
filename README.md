@@ -1,6 +1,6 @@
-**# Data Structures & Algorithms: College Projects (2nd Year)**
+# Data Structures & Algorithms: College Projects (2nd Year)
 
-Table of Contents
+**Table of Contents**
 - Project 1: Grade Manager (2D array)
 - Project 2: Stack (card stack)
 - Project 3: Grade Search (Windows Forms)
